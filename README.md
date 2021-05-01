@@ -1,2 +1,2 @@
 # MIPS-Processor
-This processor has been made using Verilog (hardware description language)
+This processor has been implemented using Verilog as hardware description language
