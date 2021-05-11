@@ -12,3 +12,6 @@ You can clone codes using the below command:
 ```
 git clone https://github.com/SaraBaradaran/MIPS-Processor
 ```
+
+### Step 2: Run Codes Using ModelSim
+
