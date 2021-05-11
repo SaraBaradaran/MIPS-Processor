@@ -1,6 +1,6 @@
 # MIPS-Processor
 This processor has been implemented using Verilog as a hardware description language.
-You can use ModelSim software for running Verilog codes. ModelSim is a package in Mentor Graphics and is used for logic simulation of HDLs.You can get more information about how this processor works by reading the MIPS_Processor_Project.pdf and MIPS_Processor_Demo.pdf files.
+You can use ModelSim software for running Verilog codes. ModelSim is a package in Mentor Graphics and is used for logic simulation of HDLs. You can get more information about how this processor works by reading the MIPS_Processor_Project.pdf and MIPS_Processor_Demo.pdf files.
 
 ## Usage guide
 
